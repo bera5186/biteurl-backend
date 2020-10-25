@@ -1,0 +1,10 @@
+{
+  "name": "biteurl-backend",
+  "version": "1.0.0",
+  "description": "Backend for biteurl",
+  "main": "index.js",
+  "repository": "https://github.com/bera5186/biteurl-backend.git",
+  "author": "bera5186 <rbasu611@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
